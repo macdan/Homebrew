@@ -1,0 +1,9 @@
+<h1>My Notes</h1>
+<ul>
+	<?php foreach ( $this->notes as $note ): ?>
+	<li>
+		<p><?php echo $this->escape( substr( $note['body'], 0, 140 ) ) ?></p>
+		<p><a href="/notes/<?php echo $note['id'] ?>/delete">Delete</a> | <a href="/notes/<?php echo $note['id'] ?>/edit">Edit</a> | <a href="/notes/<?php echo $note['id'] ?>">Read More</a></p>
+	</li>
+	<?php endforeach; ?>
+</ul>

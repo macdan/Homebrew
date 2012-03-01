@@ -1,0 +1,9 @@
+Hi, Just a quick disclaimer!
+
+I didn't have much to do one evening, so decided to see how much of an MVC framework I could write off the top of my head given my experience with Zend Framework. 
+I typed away for a couple of hours, intending to see how much of it would work first time. Hey, if It's just a game then why not go for the Perfect Game?! 
+Then I completely forgot all about it until now. Precisely what distracted me remains a mystery.
+
+As such, this is completely, totally, utterly and thoroughly untested.
+
+My advice, don't use this code, it's only really here for my benefit. I don't use this code in production, and I simply wouldn't. I don't believe in wasting valuable time reinventing the wheel for no good reason and neither should you! I use Zend Framework, so as a result this is basically just an unfinished Zend Framework clone. Go for the original!
